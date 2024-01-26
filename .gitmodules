@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "getLattes"]
 	path = getLattes
-	url = https://github.com/roneyfraga/getlattes
+	url = https://github.com/cran/getLattes
